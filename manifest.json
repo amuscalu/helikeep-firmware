@@ -1,0 +1,21 @@
+{
+  "name": "amuscalu.epever_monitor",
+  "version": "2026.03.14-664b4c3",
+  "home_assistant_domain": "esphome",
+  "new_install_prompt_erase": false,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "ota": {
+        "path": "epever-monitor-esp32.ota.bin",
+        "md5": "089dcd0eeacb59846bef7f051e8d5b29"
+      },
+      "parts": [
+        {
+          "path": "epever-monitor-esp32.factory.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
