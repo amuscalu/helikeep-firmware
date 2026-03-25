@@ -1,6 +1,6 @@
 {
   "name": "helikeep.go",
-  "version": "2026.03.25-c99934d",
+  "version": "2026.03.25-e4d3790",
   "home_assistant_domain": "esphome",
   "new_install_prompt_erase": false,
   "builds": [
@@ -8,7 +8,7 @@
       "chipFamily": "ESP32",
       "ota": {
         "path": "helikeep-esp32.ota.bin",
-        "md5": "e79111c1b44824344ba4a2964c24ed78"
+        "md5": "0de7a08354f4c6afc36751d985624fa0"
       },
       "parts": [
         {
